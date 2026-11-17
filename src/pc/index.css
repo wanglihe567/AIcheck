@@ -1,0 +1,6 @@
+.fail-row > td {
+  background: #fff2f0 !important;
+}
+.fail-row > td:hover {
+  background: #ffe7e3 !important;
+}
